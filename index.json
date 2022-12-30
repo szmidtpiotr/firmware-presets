@@ -580,6 +580,24 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/rates/Freestyle_Slow_Rates.txt",
+      "hash": "23c2cb4bbd8073bbf253678ef6595debbfdb89d91df36e06390f1b28d1bc98ff",
+      "title": "Default rates",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "rates",
+        "actual"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/rc_link/defaults.txt",
       "hash": "dd9a493fb69537b8b495fbfa6f39477d69dba0c2538a2f2de68aa5a469616f05",
       "title": "Reset RC related settings",
