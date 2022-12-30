@@ -581,11 +581,10 @@
     },
     {
       "fullPath": "presets/4.3/rates/Freestyle_Slow_Rates.txt",
-      "hash": "23c2cb4bbd8073bbf253678ef6595debbfdb89d91df36e06390f1b28d1bc98ff",
-      "title": "Default rates",
+      "hash": "ab5a35bccda66cb41205b436505e639c4aab8693f8bd400a13ffe88b18a57317",
+      "title": "Rates - 1 Freestyle/ 2 Cinematic",
       "firmware_version": [
-        "4.3",
-        "4.4"
+        "4.3"
       ],
       "category": "RATES",
       "status": "OFFICIAL",
